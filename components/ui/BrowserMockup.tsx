@@ -1,7 +1,7 @@
 interface BrowserMockupProps {
   gradient?: string;
   className?: string;
-
+}
 
 export default function BrowserMockup({ gradient = "from-purple-600 to-blue-600", className = "" }: BrowserMockupProps) {
   return (
