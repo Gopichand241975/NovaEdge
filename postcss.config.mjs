@@ -1,7 +1,4 @@
 
-  plugins: {
-    "@tailwindcss/postcss": {},
-  },
-};
+
 
 
