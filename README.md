@@ -1,4 +1,4 @@
-## test repo:
+## Test repo:
 Purpose
 
 This repository is used as a testing and development repository.
